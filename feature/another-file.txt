@@ -1,1 +1,3 @@
   just another file added to feature-1
+
+This file was modified locally
